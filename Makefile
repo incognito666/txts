@@ -1,5 +1,5 @@
 
-Out=../../http://www4.ncsu.edu/~rpnisher/cs510
+Out=../../www/cs510
 Raw=$(PWD)
 Lib=./lib
 

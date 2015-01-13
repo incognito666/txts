@@ -1,5 +1,5 @@
-% Eating Habits
-% Jane Doe
+% hogging Eating Habits
+% Juhi Desai
 % March 22, 2005
 
 # In the morning
