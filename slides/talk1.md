@@ -1,4 +1,4 @@
-% hogging Eating Habits
+% hogging Eating Habits!!
 % Juhi Desai
 % March 22, 2005
 
@@ -7,13 +7,12 @@
 
 <center>
 
-  Right     Left     Center     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-	 12     12        12            12
+New Col	    Column1      Left      
+-------   ----------    -------- 
+row1        12          12            
+row2	   123          123          
+row3	    1            1           
+row4	   56           910            
 	
 Table:  Demonstration of simple table syntax.
 
