@@ -7,13 +7,13 @@
 
 <center>
 
-  Right     Left     Center     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
-    456     78         910          12
-	 12     12        12            12
+ Column1     Left      
+-------     ------    
+col11 col12
+ 12     12     12            
+ 23     123    123          
+  1     1      1           
+ 56     78     910            
 	
 Table:  Demonstration of simple table syntax.
 
