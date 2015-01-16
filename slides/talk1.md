@@ -7,12 +7,12 @@
 
 <center>
 
- Column1      Left      
-----------    -------- 
- 12     12     12            
- 23     123    123          
-  1     1      1           
- 56     78     910            
+New Col	    Column1      Left      
+-------   ----------    -------- 
+row1        12          12            
+row2	   123          123          
+row3	    1            1           
+row4	   56           910            
 	
 Table:  Demonstration of simple table syntax.
 
