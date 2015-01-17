@@ -1,14 +1,17 @@
 set terminal png  transparent enhanced  fontscale 1.0 size 500, 350 
 # set output 'contours.17.png'
-set view 60, 30, 0.85, 1.1
-set samples 25, 25
-set isosamples 26, 26
-set contour base
-set cntrparam bspline
-set title "3D gnuplot demo - contour of Sinc function" 
-set xlabel "Xx axis" 
-set ylabel "Yy axis" 
-set zlabel "Z axis" 
-set zlabel  offset character 1, 0, 0 font "" textcolor lt -1 norotate
-splot [-5:5.01] [-5:5.01] sin(sqrt(x**2+y**2)) / sqrt(x**2+y**2)
+set dummy u, v
+set key off
+set parametric
+set view 45, 50, 1, 1
+set isosamples 50, 20
+set hidden3d back offset 1 trianglepattern 3 undefined 1 altdiagonal bentover
+set style data lines
+set ztics -1.00000,0.25,1.00000 norangelimit
+set title "MMMMMmmmmm Donuts" 
+set urange [ 0.00000 : 6.28319 ] noreverse nowriteback
+set vrange [ 0.00000 : 6.28319 ] noreverse nowriteback
+set zrange [ -1.00000 : 1.00000 ] noreverse nowriteback
+splot (1-0.5*cos(v))*cos(u),(1-0.5*cos(v))*sin(u),0.5*sin(v)
+
 

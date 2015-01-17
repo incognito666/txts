@@ -32,6 +32,7 @@ As shown here:
 - z-ness has large variance [@item1; @item2].
 - x is symmetric to y  [@item3, pp. 33-35]
 - as predicted by theory [@item1]
+- Donuts can be enjoyed any time of day
 
 
 # During the week
