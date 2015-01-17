@@ -1,5 +1,6 @@
-% hogging Eating Habits!!
+% hogging Eating Habits!!!!!
 % Juhi Desai
+% Krishna Teja Dinavahi
 % March 22, 2005
 
 # In the morning
