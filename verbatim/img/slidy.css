@@ -15,7 +15,7 @@ body
   height: 100%;
   color: black;
   background-color: white;
-  font-family: "Gill Sans MT", "Gill Sans", GillSans, sans-serif;
+  font-family: "Times New Roman",Times, serif;
   font-size: 14pt;
 }
 
@@ -26,7 +26,7 @@ div.toolbar {
   padding-left: 1em;
   padding-right: 1em; 
   font-size: 60%;
-  color: red;
+  color: black;
   background-color: rgb(240,240,240);
   border-top: solid 1px rgb(180,180,180);
 }
@@ -120,7 +120,7 @@ div.slide.titlepage h1 {
 }
 
 div.slide h1 {
-	color: red;
+	color: blue;
   padding-left: 0;
   padding-right: 20pt;
   padding-top: 4pt;
@@ -134,7 +134,7 @@ div.slide h1 {
   line-height: 1.2em;
   xbackground: transparent;
   background-color: #CC0303;
-	color: white;
+	color: black;
 
   padding-left: 10px;
 		height: 110px;
