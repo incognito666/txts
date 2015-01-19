@@ -1,25 +1,3 @@
-
-# Juhi Desai
-
-hyyftrdsedtf
-
-
--I love chocolate! :D
-
-
-# slide2 dummy
-
-ugydrdsry
-
--data of slide 2
-
--blah blah
-
-
-# Ronak Nisher
-
-- This is my slide :P
-
 #  1/19/2015 hogging Eating Habits!!!!!
 
  Juhi Desai, Ronak Nisher

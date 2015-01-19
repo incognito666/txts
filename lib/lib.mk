@@ -16,7 +16,7 @@ define target
 endef
 
 
-ready : dirs files dots talks plots pages
+ready : dirs files dots catting talks plots pages
 	@echo "See $(Out)"
 
 gitting:
@@ -64,7 +64,10 @@ pages : $(call target,posts,md,html,$(Raw),$(Out))
 debug:
 	echo  $(call target,posts,md,html,$(Raw),$(Out))
 
-$(Out)/slides/%.html : $(Raw)/slides/%.md 
+catting:
+	cat $(Raw)/slides/*/*.md > $(Raw)/slides/talk1.md
+
+$(Out)/slides/%.html :  $(Raw)/slides/%.md 
 	pandoc -s \
               --webtex -i -t slidy \
               -r markdown+simple_tables+table_captions \
