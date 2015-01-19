@@ -1,5 +1,8 @@
 % 1/16/2015 hogging Eating Habits!!!!!
 % Juhi Desai
+% Ronak Nisher
+% Akeem Cox
+% Krishna Teja
 % March 22, 2005
 
 # In the morning
