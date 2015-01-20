@@ -1,20 +1,22 @@
 
+#Akeem Cox
+
+-I got my undergrad degree from NCSU in Computer Engineering and now I'm getting my masters in Computer Science.
+-I work full time at Cisco as a Software Engineering doing QA on Video Encoding. 
+-I enjoy video games, weight lifting, bowling, sleeping (has been hard lately), and watching anime and sporting events when I'm not doing work or grad school stuff.
+ 
 # Juhi Desai
 
-hyyftrdsedtf
+- I am doing my Masters in Computer Science
+
+- I am from Mumbai, India
 
 
--I love chocolate! :D
+#Krishna Teja
 
-
-# slide2 dummy
-
-ugydrdsry
-
--data of slide 2
-
--blah blah
-
+ I am from Hyderabad, India. 
+ 
+ I am pursuing my masters in Computer Science.
 
 # Ronak Nisher
 
