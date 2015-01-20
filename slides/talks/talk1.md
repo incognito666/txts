@@ -1,9 +1,13 @@
 # Bad Eating Habits!!!!!
 
- Juhi Desai, Ronak Nisher
-  Akeem Cox, Krishna Teja
+<center>
 
- Jan 20, 2015
+Juhi Desai, Ronak Nisher,
+Akeem Cox, Krishna Teja
+
+Jan 20, 2015
+
+</center>
 
 # In the morning
 

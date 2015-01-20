@@ -1,5 +1,5 @@
 
-Out=../../../www/incognito666
+Out=../../www/incognito666
 Raw=$(PWD)
 Lib=./lib
 
