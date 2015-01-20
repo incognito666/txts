@@ -29,6 +29,10 @@
 
 - This is my slide :P
 
+- I am from Mumbai, India
+
+- Thats all, folks
+
 # Project Proposal
 
 We propose to implement a line coverage and fault localization tool in Python by using : 
@@ -78,6 +82,12 @@ We propose to implement a line coverage and fault localization tool in Python by
      * Adding unit tests that will act as known failures.
      * Measuring the time it takes for the system to run with both code coverage libraries. 
      * Analyze the code coverage statistics produced by both libraries.
+
+#Testing coverage.py
+
+<img src="../img/cov_overview.PNG" align=right>
+<img src="../img/cov_detailed.PNG" align=left>
+<br/>
 
 
 # Bad Eating Habits!!!!!
