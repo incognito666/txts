@@ -1,17 +1,7 @@
 
 # Juhi Desai
 
-hyyftrdsedtf
+- I am doing my Masters in Computer Science
 
-
--I love chocolate! :D
-
-
-# slide2 dummy
-
-ugydrdsry
-
--data of slide 2
-
--blah blah
+- I am from Mumbai, India
 
