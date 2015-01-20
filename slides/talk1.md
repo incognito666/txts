@@ -1,9 +1,14 @@
+%Project 1 Proposal and team Info
+%Incognito666
+ Juhi Desai, Ronak Nisher
+  Akeem Cox, Krishna Teja
+%1/20/2015
 
 #Akeem Cox
 
--I got my undergrad degree from NCSU in Computer Engineering and now I'm getting my masters in Computer Science.
--I work full time at Cisco as a Software Engineering doing QA on Video Encoding. 
--I enjoy video games, weight lifting, bowling, sleeping (has been hard lately), and watching anime and sporting events when I'm not doing work or grad school stuff.
+- I got my undergrad degree from NCSU in Computer Engineering and now I'm getting my masters in Computer Science.
+- I work full time at Cisco as a Software Engineering doing QA on Video Encoding. 
+- I enjoy video games, weight lifting, bowling, sleeping (has been hard lately), and watching anime and sporting events when I'm not doing work or grad school stuff.
  
 # Juhi Desai
 
@@ -60,12 +65,12 @@ We propose to implement a line coverage and fault localization tool in Python by
 - Fig Leaf is faster than coverage.py but lacks in its reporting capability
 
 
-#  1/19/2015 hogging Eating Habits!!!!!
+# Bad Eating Habits!!!!!
 
  Juhi Desai, Ronak Nisher
   Akeem Cox, Krishna Teja
 
- Jan 19, 2015
+ Jan 20, 2015
 
 # In the morning
 
