@@ -1,0 +1,5 @@
+digraph {
+   runB -> test_b [color=red];
+   test_b  -> b [color=red];
+  
+}

@@ -27,13 +27,15 @@ Smruthi Elapavuluri
 
 1. Look for python code on github for test bed - Due on March 4
 
-2. a) System testing for coverage - Due on March 7
+2. Finish code graph creation - Due on March 4
 
-2. b) System testing for figleaf - Due on March 8
+3. a) System testing for coverage - Due on March 7
 
-3. Compare coverage and figleaf - Due on March 14
+3. b) System testing for figleaf - Due on March 8
 
-4. Build a dialog layer to display suspiciousness
+4. Compare coverage and figleaf - Due on March 14
+
+5. Build a dialog layer to display suspiciousness
 
 # Project Progress
 
@@ -51,9 +53,10 @@ We have finished the following
 
 We are currently working on the following 
 
-* Looking for open source projects on Github to test our tool
-* Make a tree of the source code using trace.py and try to colour code it based on the suspiciousness values
-
+- Looking for open source projects on Github to test our tool
+- Make a tree of the source code using trace.py and try to colour code it based on the suspiciousness values
+	* Example of fail: <img src="../img/dot/runB.png"> Example of pass: <img src="../img/dot/runA.png">
+	
 # Github Repo at a glance
 
 - 2 milestones reached
@@ -78,7 +81,25 @@ We are currently working on the following
 
 # Test Procedures
 
-# Link to tests 
+- Unit testing of: 
+	* Code using coverage.py library
+	* Code using figleaf.py library
+	* Code using trace library for graphing code 
+- System testing of the coverage libraries with the code mapping on other python coded projects found on github. 
+	* Will add more test cases which will test areas not touched by these other tests. 
+
+# Link to Projects used for testing
+
+- https://github.com/shawnrice/alfred-bundler 
+	* Productivity app for Mac OS X
+- https://github.com/PyTables/PyTables
+	* Hierarchical dataset manager in python
+- https://github.com/prusnak/addrgen/tree/master/python
+	* Deterministic Bitcoin Address Generator
+- https://github.com/Trebek/pydealer
+	* Playing Card Package
+- https://github.com/jedie/python-creole
+	* Python library for converting markups
 
 
 
