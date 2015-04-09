@@ -52,6 +52,24 @@ Our system will help Python developers do the following:
 	- Used Coverage.py and FigLeaf (our 2 techniques) as the underlying code coverage libraries.
 - Created a graph representation of the underlying code call hierarchy. 
 
+#Design
+-><img src="../img/dot/510Design.png"><-
+
+#Results
+
+| Trials              | Figleaf     | Coverage    |
+|--------------------:|-------------|-------------|
+| 1                   | 2.315999985 | 5.129513025 |
+| 2                   | 2.351999998 | 5.151515007 |
+| 3                   | 2.414000034 | 5.328532934 |
+| 4                   | 2.315999985 | 5.106999874 |
+| 5                   | 2.327000141 | 5.096999884 |
+| 6                   | 2.318000078 | 5.107000113 |
+| 7                   | 2.335999966 | 5.11500001  |
+| 8                   | 2.325000048 | 5.089999914 |
+| 9                   | 2.34800005  | 5.104000092 |
+| Average Time in Sec | 2.339111143 | 5.136617872 |  
+
 # Conclusion 
 
 
