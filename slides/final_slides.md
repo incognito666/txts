@@ -48,8 +48,8 @@ Our system will help Python developers do the following:
 
 # Tasks Accomplished
 - Implemented an integrated line coverage and fault localization tool in Python. 
-- Implemented our version of Tarantula for Fault Localization. 
-- Used Coverage.py and FigLeaf (our 2 techniques) as the underlying code coverage libraries.
+	- Implemented our version of Tarantula for Fault Localization. 
+	- Used Coverage.py and FigLeaf (our 2 techniques) as the underlying code coverage libraries.
 - Created a graph representation of the underlying code call hierarchy. 
 
 # Conclusion 
